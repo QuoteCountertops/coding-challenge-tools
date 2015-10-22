@@ -74,8 +74,6 @@ instance providing a JSON in/out RESTful API. Feel free to use any other
 technologies provided that the general client/service architecture is
 respected.
 
-Choose **one** of the following technical tracks that best suits your skillset:
-
 1. **Full-stack**: include both front-end and back-end.
 2. **Back-end track**: include a minimal front-end (e.g. a static view or API
    docs). Write, document and test your API as if it will be used by other
@@ -93,14 +91,12 @@ your challenge.
 
 Here are some technologies we are more familiar with:
 
-* **Python** (most of our back-end uses this language)
+* **ASP.NET MVC** (most of our back-end uses this language)
 * JavaScript
-* Ruby
-* PHP
-* Go
-* C++
-* Haskell
-* Java
+* C#
+* NHibernate
+* KnockoutJS
+* ReactJS
 
 You are also free to use any web framework. If you choose to use a framework
 that results in boilerplate code in the repository, please detail in your
@@ -112,10 +108,8 @@ The front-end should ideally be a single page app with a single `index.html`
 linking to external JS/CSS/etc. You may take this opportunity to demonstrate
 your CSS3 or HTML5 knowledge.
 
-We recommend using [Backbone.js](http://documentcloud.github.com/backbone/) for
-front-end MVC, and recommend against using heavier front-end frameworks (like
-Angular, for example). That way we can get better insight into your thought
-process and your understanding of the framework itself.
+We recommend using [KnockoutJS](http://knockoutjs.com/) for
+front-end MVC.
 
 Host it!
 --------
